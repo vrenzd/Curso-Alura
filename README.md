@@ -6,10 +6,3 @@ Este repositório contém os projetos realizados durante os cursos oferecidos pe
 
 # 📚 Objetivo
 Reunir o aprendizado prático e projetos realizados nos cursos da Alura, promovendo o conhecimento e desenvolvimento.
-
-## 🛠️ Tecnologias usadas
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Python**
