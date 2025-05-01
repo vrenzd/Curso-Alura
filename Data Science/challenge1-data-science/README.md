@@ -17,7 +17,6 @@ O projeto está organizado da seguinte maneira:
  │   ├── mapa_interativo.ipynb   # Notebook com análise geográfica usando Folium
  ├── 📁 assets/              # Contém gráficos gerados para referência
  ├── README.md               # Documentação do projeto
- ├── requirements.txt        # Dependências necessárias para rodar o projeto
 ```
 
 ---
