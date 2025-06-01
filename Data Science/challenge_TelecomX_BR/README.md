@@ -54,7 +54,3 @@ challenge_TelecomX_BR/
 3. Segmentar ofertas por perfil
 4. Melhorar qualidade do serviço
 5. Otimizar precificação
-
-
-## Licença
-Este projeto está sob a licença MIT.
