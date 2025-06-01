@@ -1,4 +1,4 @@
-# Análise de Evasão de Clientes TelecomX 📊
+# Análise de Evasão de Clientes TelecomX 
 
 ## Sobre o Projeto
 Análise exploratória de dados para identificar padrões de evasão (churn) dos clientes da TelecomX, visando entender os fatores que contribuem para a saída de clientes e propor estratégias de retenção.
